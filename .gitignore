@@ -1,0 +1,14 @@
+# Private local literature experiments and source metadata
+/translations/
+/.local/
+/dist/
+/public/
+/node_modules/
+/.env
+/.env.*
+*.log
+*.tmp
+Thumbs.db
+.DS_Store
+# Review sources and licenses before placing artwork under docs/assets/.
+/*.png

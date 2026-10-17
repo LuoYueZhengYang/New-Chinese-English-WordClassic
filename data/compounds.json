@@ -1,0 +1,24 @@
+{
+  "project": "New Chinese English WordClassic",
+  "version": "0.1.0",
+  "status": "draft",
+  "source": "original project examples",
+  "entries": [
+    {
+      "id": "c001",
+      "zh": "老人",
+      "wc": "oldperson",
+      "components": ["old", "person"],
+      "status": "draft",
+      "notes": "保留年老这一信息。"
+    },
+    {
+      "id": "c002",
+      "zh": "人类",
+      "wc": "personclass",
+      "components": ["person", "class"],
+      "status": "draft",
+      "notes": "项目发起人提出的固定组合样例，仍需检验理解与读音。"
+    }
+  ]
+}

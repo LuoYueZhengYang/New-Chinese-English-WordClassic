@@ -1,0 +1,382 @@
+{
+  "project": "New Chinese English WordClassic",
+  "version": "0.1.0",
+  "status": "draft",
+  "source": "original project examples",
+  "description": "原创基础句库第 001—060 句；词形、句式及组合仍在试行。",
+  "rules": [
+    "基础词沿用原有英语读音和基本词形。",
+    "数量直接放在事物前，本批暂不增加复数词尾。",
+    "时间放在主语之后、动作之前。",
+    "no 表示否定；身份句暂省略‘是’。",
+    "问句先用问号和疑问语调表示。"
+  ],
+  "editorial_notes": [
+    {
+      "id": "040",
+      "note": "中文由‘你看见书了吗？’校为‘你看见书吗？’，避免将尚未表达的完成信息加入对应句。"
+    }
+  ],
+  "entries": [
+    {
+      "id": "001",
+      "zh": "我是老师。",
+      "wc": "I teacher.",
+      "status": "draft"
+    },
+    {
+      "id": "002",
+      "zh": "你是老师吗？",
+      "wc": "You teacher?",
+      "status": "draft"
+    },
+    {
+      "id": "003",
+      "zh": "他是学生。",
+      "wc": "He student.",
+      "status": "draft"
+    },
+    {
+      "id": "004",
+      "zh": "她是老师。",
+      "wc": "She teacher.",
+      "status": "draft"
+    },
+    {
+      "id": "005",
+      "zh": "他是老人。",
+      "wc": "He oldperson.",
+      "status": "draft"
+    },
+    {
+      "id": "006",
+      "zh": "我们是人类。",
+      "wc": "We personclass.",
+      "status": "draft"
+    },
+    {
+      "id": "007",
+      "zh": "我不是老师。",
+      "wc": "I no teacher.",
+      "status": "draft"
+    },
+    {
+      "id": "008",
+      "zh": "你不是学生。",
+      "wc": "You no student.",
+      "status": "draft"
+    },
+    {
+      "id": "009",
+      "zh": "这是书。",
+      "wc": "This book.",
+      "status": "draft"
+    },
+    {
+      "id": "010",
+      "zh": "那是茶。",
+      "wc": "That tea.",
+      "status": "draft"
+    },
+    {
+      "id": "011",
+      "zh": "我有一本书。",
+      "wc": "I have one book.",
+      "status": "draft"
+    },
+    {
+      "id": "012",
+      "zh": "你有两本书吗？",
+      "wc": "You have two book?",
+      "status": "draft"
+    },
+    {
+      "id": "013",
+      "zh": "她有三本书。",
+      "wc": "She have three book.",
+      "status": "draft"
+    },
+    {
+      "id": "014",
+      "zh": "老师有十本书。",
+      "wc": "Teacher have ten book.",
+      "status": "draft"
+    },
+    {
+      "id": "015",
+      "zh": "我有十一本书。",
+      "wc": "I have tenone book.",
+      "status": "draft"
+    },
+    {
+      "id": "016",
+      "zh": "我有十二本书。",
+      "wc": "I have tentwo book.",
+      "status": "draft"
+    },
+    {
+      "id": "017",
+      "zh": "我有二十本书。",
+      "wc": "I have twoten book.",
+      "status": "draft"
+    },
+    {
+      "id": "018",
+      "zh": "你有二十一本书吗？",
+      "wc": "You have twotenone book?",
+      "status": "draft"
+    },
+    {
+      "id": "019",
+      "zh": "我有二十三本书。",
+      "wc": "I have twotenthree book.",
+      "status": "draft"
+    },
+    {
+      "id": "020",
+      "zh": "他没有书。",
+      "wc": "He no have book.",
+      "status": "draft"
+    },
+    {
+      "id": "021",
+      "zh": "我喝水。",
+      "wc": "I drink water.",
+      "status": "draft"
+    },
+    {
+      "id": "022",
+      "zh": "你喝茶。",
+      "wc": "You drink tea.",
+      "status": "draft"
+    },
+    {
+      "id": "023",
+      "zh": "我想吃米饭。",
+      "wc": "I want eat rice.",
+      "status": "draft"
+    },
+    {
+      "id": "024",
+      "zh": "你想吃面包吗？",
+      "wc": "You want eat bread?",
+      "status": "draft"
+    },
+    {
+      "id": "025",
+      "zh": "我不喝牛奶。",
+      "wc": "I no drink milk.",
+      "status": "draft"
+    },
+    {
+      "id": "026",
+      "zh": "老师喝茶。",
+      "wc": "Teacher drink tea.",
+      "status": "draft"
+    },
+    {
+      "id": "027",
+      "zh": "老人喝水。",
+      "wc": "Oldperson drink water.",
+      "status": "draft"
+    },
+    {
+      "id": "028",
+      "zh": "我想吃苹果。",
+      "wc": "I want eat apple.",
+      "status": "draft"
+    },
+    {
+      "id": "029",
+      "zh": "你想喝茶吗？",
+      "wc": "You want drink tea?",
+      "status": "draft"
+    },
+    {
+      "id": "030",
+      "zh": "我不想喝茶。",
+      "wc": "I no want drink tea.",
+      "status": "draft"
+    },
+    {
+      "id": "031",
+      "zh": "我读书。",
+      "wc": "I read book.",
+      "status": "draft"
+    },
+    {
+      "id": "032",
+      "zh": "你写字。",
+      "wc": "You write character.",
+      "status": "draft"
+    },
+    {
+      "id": "033",
+      "zh": "老师教词语。",
+      "wc": "Teacher teach word.",
+      "status": "draft"
+    },
+    {
+      "id": "034",
+      "zh": "我学词语。",
+      "wc": "I learn word.",
+      "status": "draft"
+    },
+    {
+      "id": "035",
+      "zh": "我看见老师。",
+      "wc": "I see teacher.",
+      "status": "draft"
+    },
+    {
+      "id": "036",
+      "zh": "我思考。",
+      "wc": "I think.",
+      "status": "draft"
+    },
+    {
+      "id": "037",
+      "zh": "你想读书吗？",
+      "wc": "You want read book?",
+      "status": "draft"
+    },
+    {
+      "id": "038",
+      "zh": "我打开书。",
+      "wc": "I open book.",
+      "status": "draft"
+    },
+    {
+      "id": "039",
+      "zh": "我想学习词语。",
+      "wc": "I want learn word.",
+      "status": "draft"
+    },
+    {
+      "id": "040",
+      "zh": "你看见书吗？",
+      "wc": "You see book?",
+      "status": "draft"
+    },
+    {
+      "id": "041",
+      "zh": "我在这里。",
+      "wc": "I at here.",
+      "status": "draft"
+    },
+    {
+      "id": "042",
+      "zh": "你在那里吗？",
+      "wc": "You at there?",
+      "status": "draft"
+    },
+    {
+      "id": "043",
+      "zh": "老师在学校。",
+      "wc": "Teacher at school.",
+      "status": "draft"
+    },
+    {
+      "id": "044",
+      "zh": "学生在家。",
+      "wc": "Student at home.",
+      "status": "draft"
+    },
+    {
+      "id": "045",
+      "zh": "书在家。",
+      "wc": "Book at home.",
+      "status": "draft"
+    },
+    {
+      "id": "046",
+      "zh": "我今天去学校。",
+      "wc": "I today go school.",
+      "status": "draft"
+    },
+    {
+      "id": "047",
+      "zh": "你明天来学校吗？",
+      "wc": "You tomorrow come school?",
+      "status": "draft"
+    },
+    {
+      "id": "048",
+      "zh": "我昨天洗手。",
+      "wc": "I yesterday wash hand.",
+      "status": "draft"
+    },
+    {
+      "id": "049",
+      "zh": "我现在不想睡觉。",
+      "wc": "I now no want sleep.",
+      "status": "draft"
+    },
+    {
+      "id": "050",
+      "zh": "我晚上休息。",
+      "wc": "I night rest.",
+      "status": "draft"
+    },
+    {
+      "id": "051",
+      "zh": "我觉得开心。",
+      "wc": "I feel happy.",
+      "status": "draft"
+    },
+    {
+      "id": "052",
+      "zh": "你觉得累吗？",
+      "wc": "You feel tired?",
+      "status": "draft"
+    },
+    {
+      "id": "053",
+      "zh": "我今天觉得累。",
+      "wc": "I today feel tired.",
+      "status": "draft"
+    },
+    {
+      "id": "054",
+      "zh": "我现在觉得饿。",
+      "wc": "I now feel hungry.",
+      "status": "draft"
+    },
+    {
+      "id": "055",
+      "zh": "我现在觉得口渴。",
+      "wc": "I now feel thirsty.",
+      "status": "draft"
+    },
+    {
+      "id": "056",
+      "zh": "我不觉得冷。",
+      "wc": "I no feel cold.",
+      "status": "draft"
+    },
+    {
+      "id": "057",
+      "zh": "你觉得热吗？",
+      "wc": "You feel hot?",
+      "status": "draft"
+    },
+    {
+      "id": "058",
+      "zh": "我爱人类。",
+      "wc": "I love personclass.",
+      "status": "draft"
+    },
+    {
+      "id": "059",
+      "zh": "好久不见。",
+      "wc": "Long time no see.",
+      "status": "draft"
+    },
+    {
+      "id": "060",
+      "zh": "我明天见你。",
+      "wc": "I tomorrow see you.",
+      "status": "draft"
+    }
+  ]
+}

@@ -1,0 +1,610 @@
+{
+  "project": "New Chinese English WordClassic",
+  "version": "0.1.0",
+  "status": "draft",
+  "source": "original project examples",
+  "description": "0—99 完整数字表；十位按中文结构组合，词根读音沿用原英语。",
+  "rule": "0—9 使用基础数词；10 为 ten；11—19 为 ten 加个位；20—99 为十位基础数词加 ten，再按需加非零个位。",
+  "entries": [
+    {
+      "id": "000",
+      "value": 0,
+      "zh": "零",
+      "wc": "zero"
+    },
+    {
+      "id": "001",
+      "value": 1,
+      "zh": "一",
+      "wc": "one"
+    },
+    {
+      "id": "002",
+      "value": 2,
+      "zh": "二",
+      "wc": "two"
+    },
+    {
+      "id": "003",
+      "value": 3,
+      "zh": "三",
+      "wc": "three"
+    },
+    {
+      "id": "004",
+      "value": 4,
+      "zh": "四",
+      "wc": "four"
+    },
+    {
+      "id": "005",
+      "value": 5,
+      "zh": "五",
+      "wc": "five"
+    },
+    {
+      "id": "006",
+      "value": 6,
+      "zh": "六",
+      "wc": "six"
+    },
+    {
+      "id": "007",
+      "value": 7,
+      "zh": "七",
+      "wc": "seven"
+    },
+    {
+      "id": "008",
+      "value": 8,
+      "zh": "八",
+      "wc": "eight"
+    },
+    {
+      "id": "009",
+      "value": 9,
+      "zh": "九",
+      "wc": "nine"
+    },
+    {
+      "id": "010",
+      "value": 10,
+      "zh": "十",
+      "wc": "ten"
+    },
+    {
+      "id": "011",
+      "value": 11,
+      "zh": "十一",
+      "wc": "tenone"
+    },
+    {
+      "id": "012",
+      "value": 12,
+      "zh": "十二",
+      "wc": "tentwo"
+    },
+    {
+      "id": "013",
+      "value": 13,
+      "zh": "十三",
+      "wc": "tenthree"
+    },
+    {
+      "id": "014",
+      "value": 14,
+      "zh": "十四",
+      "wc": "tenfour"
+    },
+    {
+      "id": "015",
+      "value": 15,
+      "zh": "十五",
+      "wc": "tenfive"
+    },
+    {
+      "id": "016",
+      "value": 16,
+      "zh": "十六",
+      "wc": "tensix"
+    },
+    {
+      "id": "017",
+      "value": 17,
+      "zh": "十七",
+      "wc": "tenseven"
+    },
+    {
+      "id": "018",
+      "value": 18,
+      "zh": "十八",
+      "wc": "teneight"
+    },
+    {
+      "id": "019",
+      "value": 19,
+      "zh": "十九",
+      "wc": "tennine"
+    },
+    {
+      "id": "020",
+      "value": 20,
+      "zh": "二十",
+      "wc": "twoten"
+    },
+    {
+      "id": "021",
+      "value": 21,
+      "zh": "二十一",
+      "wc": "twotenone"
+    },
+    {
+      "id": "022",
+      "value": 22,
+      "zh": "二十二",
+      "wc": "twotentwo"
+    },
+    {
+      "id": "023",
+      "value": 23,
+      "zh": "二十三",
+      "wc": "twotenthree"
+    },
+    {
+      "id": "024",
+      "value": 24,
+      "zh": "二十四",
+      "wc": "twotenfour"
+    },
+    {
+      "id": "025",
+      "value": 25,
+      "zh": "二十五",
+      "wc": "twotenfive"
+    },
+    {
+      "id": "026",
+      "value": 26,
+      "zh": "二十六",
+      "wc": "twotensix"
+    },
+    {
+      "id": "027",
+      "value": 27,
+      "zh": "二十七",
+      "wc": "twotenseven"
+    },
+    {
+      "id": "028",
+      "value": 28,
+      "zh": "二十八",
+      "wc": "twoteneight"
+    },
+    {
+      "id": "029",
+      "value": 29,
+      "zh": "二十九",
+      "wc": "twotennine"
+    },
+    {
+      "id": "030",
+      "value": 30,
+      "zh": "三十",
+      "wc": "threeten"
+    },
+    {
+      "id": "031",
+      "value": 31,
+      "zh": "三十一",
+      "wc": "threetenone"
+    },
+    {
+      "id": "032",
+      "value": 32,
+      "zh": "三十二",
+      "wc": "threetentwo"
+    },
+    {
+      "id": "033",
+      "value": 33,
+      "zh": "三十三",
+      "wc": "threetenthree"
+    },
+    {
+      "id": "034",
+      "value": 34,
+      "zh": "三十四",
+      "wc": "threetenfour"
+    },
+    {
+      "id": "035",
+      "value": 35,
+      "zh": "三十五",
+      "wc": "threetenfive"
+    },
+    {
+      "id": "036",
+      "value": 36,
+      "zh": "三十六",
+      "wc": "threetensix"
+    },
+    {
+      "id": "037",
+      "value": 37,
+      "zh": "三十七",
+      "wc": "threetenseven"
+    },
+    {
+      "id": "038",
+      "value": 38,
+      "zh": "三十八",
+      "wc": "threeteneight"
+    },
+    {
+      "id": "039",
+      "value": 39,
+      "zh": "三十九",
+      "wc": "threetennine"
+    },
+    {
+      "id": "040",
+      "value": 40,
+      "zh": "四十",
+      "wc": "fourten"
+    },
+    {
+      "id": "041",
+      "value": 41,
+      "zh": "四十一",
+      "wc": "fourtenone"
+    },
+    {
+      "id": "042",
+      "value": 42,
+      "zh": "四十二",
+      "wc": "fourtentwo"
+    },
+    {
+      "id": "043",
+      "value": 43,
+      "zh": "四十三",
+      "wc": "fourtenthree"
+    },
+    {
+      "id": "044",
+      "value": 44,
+      "zh": "四十四",
+      "wc": "fourtenfour"
+    },
+    {
+      "id": "045",
+      "value": 45,
+      "zh": "四十五",
+      "wc": "fourtenfive"
+    },
+    {
+      "id": "046",
+      "value": 46,
+      "zh": "四十六",
+      "wc": "fourtensix"
+    },
+    {
+      "id": "047",
+      "value": 47,
+      "zh": "四十七",
+      "wc": "fourtenseven"
+    },
+    {
+      "id": "048",
+      "value": 48,
+      "zh": "四十八",
+      "wc": "fourteneight"
+    },
+    {
+      "id": "049",
+      "value": 49,
+      "zh": "四十九",
+      "wc": "fourtennine"
+    },
+    {
+      "id": "050",
+      "value": 50,
+      "zh": "五十",
+      "wc": "fiveten"
+    },
+    {
+      "id": "051",
+      "value": 51,
+      "zh": "五十一",
+      "wc": "fivetenone"
+    },
+    {
+      "id": "052",
+      "value": 52,
+      "zh": "五十二",
+      "wc": "fivetentwo"
+    },
+    {
+      "id": "053",
+      "value": 53,
+      "zh": "五十三",
+      "wc": "fivetenthree"
+    },
+    {
+      "id": "054",
+      "value": 54,
+      "zh": "五十四",
+      "wc": "fivetenfour"
+    },
+    {
+      "id": "055",
+      "value": 55,
+      "zh": "五十五",
+      "wc": "fivetenfive"
+    },
+    {
+      "id": "056",
+      "value": 56,
+      "zh": "五十六",
+      "wc": "fivetensix"
+    },
+    {
+      "id": "057",
+      "value": 57,
+      "zh": "五十七",
+      "wc": "fivetenseven"
+    },
+    {
+      "id": "058",
+      "value": 58,
+      "zh": "五十八",
+      "wc": "fiveteneight"
+    },
+    {
+      "id": "059",
+      "value": 59,
+      "zh": "五十九",
+      "wc": "fivetennine"
+    },
+    {
+      "id": "060",
+      "value": 60,
+      "zh": "六十",
+      "wc": "sixten"
+    },
+    {
+      "id": "061",
+      "value": 61,
+      "zh": "六十一",
+      "wc": "sixtenone"
+    },
+    {
+      "id": "062",
+      "value": 62,
+      "zh": "六十二",
+      "wc": "sixtentwo"
+    },
+    {
+      "id": "063",
+      "value": 63,
+      "zh": "六十三",
+      "wc": "sixtenthree"
+    },
+    {
+      "id": "064",
+      "value": 64,
+      "zh": "六十四",
+      "wc": "sixtenfour"
+    },
+    {
+      "id": "065",
+      "value": 65,
+      "zh": "六十五",
+      "wc": "sixtenfive"
+    },
+    {
+      "id": "066",
+      "value": 66,
+      "zh": "六十六",
+      "wc": "sixtensix"
+    },
+    {
+      "id": "067",
+      "value": 67,
+      "zh": "六十七",
+      "wc": "sixtenseven"
+    },
+    {
+      "id": "068",
+      "value": 68,
+      "zh": "六十八",
+      "wc": "sixteneight"
+    },
+    {
+      "id": "069",
+      "value": 69,
+      "zh": "六十九",
+      "wc": "sixtennine"
+    },
+    {
+      "id": "070",
+      "value": 70,
+      "zh": "七十",
+      "wc": "seventen"
+    },
+    {
+      "id": "071",
+      "value": 71,
+      "zh": "七十一",
+      "wc": "seventenone"
+    },
+    {
+      "id": "072",
+      "value": 72,
+      "zh": "七十二",
+      "wc": "sevententwo"
+    },
+    {
+      "id": "073",
+      "value": 73,
+      "zh": "七十三",
+      "wc": "sevententhree"
+    },
+    {
+      "id": "074",
+      "value": 74,
+      "zh": "七十四",
+      "wc": "seventenfour"
+    },
+    {
+      "id": "075",
+      "value": 75,
+      "zh": "七十五",
+      "wc": "seventenfive"
+    },
+    {
+      "id": "076",
+      "value": 76,
+      "zh": "七十六",
+      "wc": "seventensix"
+    },
+    {
+      "id": "077",
+      "value": 77,
+      "zh": "七十七",
+      "wc": "seventenseven"
+    },
+    {
+      "id": "078",
+      "value": 78,
+      "zh": "七十八",
+      "wc": "seventeneight"
+    },
+    {
+      "id": "079",
+      "value": 79,
+      "zh": "七十九",
+      "wc": "seventennine"
+    },
+    {
+      "id": "080",
+      "value": 80,
+      "zh": "八十",
+      "wc": "eightten"
+    },
+    {
+      "id": "081",
+      "value": 81,
+      "zh": "八十一",
+      "wc": "eighttenone"
+    },
+    {
+      "id": "082",
+      "value": 82,
+      "zh": "八十二",
+      "wc": "eighttentwo"
+    },
+    {
+      "id": "083",
+      "value": 83,
+      "zh": "八十三",
+      "wc": "eighttenthree"
+    },
+    {
+      "id": "084",
+      "value": 84,
+      "zh": "八十四",
+      "wc": "eighttenfour"
+    },
+    {
+      "id": "085",
+      "value": 85,
+      "zh": "八十五",
+      "wc": "eighttenfive"
+    },
+    {
+      "id": "086",
+      "value": 86,
+      "zh": "八十六",
+      "wc": "eighttensix"
+    },
+    {
+      "id": "087",
+      "value": 87,
+      "zh": "八十七",
+      "wc": "eighttenseven"
+    },
+    {
+      "id": "088",
+      "value": 88,
+      "zh": "八十八",
+      "wc": "eightteneight"
+    },
+    {
+      "id": "089",
+      "value": 89,
+      "zh": "八十九",
+      "wc": "eighttennine"
+    },
+    {
+      "id": "090",
+      "value": 90,
+      "zh": "九十",
+      "wc": "nineten"
+    },
+    {
+      "id": "091",
+      "value": 91,
+      "zh": "九十一",
+      "wc": "ninetenone"
+    },
+    {
+      "id": "092",
+      "value": 92,
+      "zh": "九十二",
+      "wc": "ninetentwo"
+    },
+    {
+      "id": "093",
+      "value": 93,
+      "zh": "九十三",
+      "wc": "ninetenthree"
+    },
+    {
+      "id": "094",
+      "value": 94,
+      "zh": "九十四",
+      "wc": "ninetenfour"
+    },
+    {
+      "id": "095",
+      "value": 95,
+      "zh": "九十五",
+      "wc": "ninetenfive"
+    },
+    {
+      "id": "096",
+      "value": 96,
+      "zh": "九十六",
+      "wc": "ninetensix"
+    },
+    {
+      "id": "097",
+      "value": 97,
+      "zh": "九十七",
+      "wc": "ninetenseven"
+    },
+    {
+      "id": "098",
+      "value": 98,
+      "zh": "九十八",
+      "wc": "nineteneight"
+    },
+    {
+      "id": "099",
+      "value": 99,
+      "zh": "九十九",
+      "wc": "ninetennine"
+    }
+  ]
+}

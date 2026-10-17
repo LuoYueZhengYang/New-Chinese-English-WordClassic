@@ -1,0 +1,730 @@
+{
+  "project": "New Chinese English WordClassic",
+  "version": "0.1.0",
+  "status": "draft",
+  "source": "original project examples",
+  "description": "当前原创试行句库采用的基础词；中文基础义以整体记录，不主张机械逐字替换。",
+  "pronunciation_policy": "Retain the original English pronunciation of each base word. IPA and a single accent standard are not specified.",
+  "entries": [
+    {
+      "id": "r001",
+      "zh": "我",
+      "wc": "I",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "人称词；大小写沿用 I。",
+      "status": "draft"
+    },
+    {
+      "id": "r002",
+      "zh": "你",
+      "wc": "you",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "第二人称。",
+      "status": "draft"
+    },
+    {
+      "id": "r003",
+      "zh": "他",
+      "wc": "he",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "第三人称。",
+      "status": "draft"
+    },
+    {
+      "id": "r004",
+      "zh": "她",
+      "wc": "she",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "第三人称。",
+      "status": "draft"
+    },
+    {
+      "id": "r005",
+      "zh": "我们",
+      "wc": "we",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r006",
+      "zh": "这",
+      "wc": "this",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "指示词。",
+      "status": "draft"
+    },
+    {
+      "id": "r007",
+      "zh": "那",
+      "wc": "that",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "指示词。",
+      "status": "draft"
+    },
+    {
+      "id": "r008",
+      "zh": "人",
+      "wc": "person",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "组合示例：oldperson、personclass。",
+      "status": "draft"
+    },
+    {
+      "id": "r009",
+      "zh": "类",
+      "wc": "class",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本项目基础义暂定为类别；组合示例：personclass。",
+      "status": "draft"
+    },
+    {
+      "id": "r010",
+      "zh": "师；老师",
+      "wc": "teacher",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "完整表达老师的身份；不按‘老＋师’拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r011",
+      "zh": "老；年老",
+      "wc": "old",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "年龄意义；组合示例：oldperson。",
+      "status": "draft"
+    },
+    {
+      "id": "r012",
+      "zh": "学生",
+      "wc": "student",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r013",
+      "zh": "茶",
+      "wc": "tea",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "事物。",
+      "status": "draft"
+    },
+    {
+      "id": "r014",
+      "zh": "水",
+      "wc": "water",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "事物。",
+      "status": "draft"
+    },
+    {
+      "id": "r015",
+      "zh": "书",
+      "wc": "book",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "事物；与阅读 read 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r016",
+      "zh": "食物",
+      "wc": "food",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r017",
+      "zh": "米饭",
+      "wc": "rice",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r018",
+      "zh": "面包",
+      "wc": "bread",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r019",
+      "zh": "牛奶",
+      "wc": "milk",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r020",
+      "zh": "苹果",
+      "wc": "apple",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r021",
+      "zh": "字",
+      "wc": "character",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "书写单位；与词 word 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r022",
+      "zh": "词；词语",
+      "wc": "word",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "词汇单位；与字 character 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r023",
+      "zh": "手",
+      "wc": "hand",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "身体部位。",
+      "status": "draft"
+    },
+    {
+      "id": "r024",
+      "zh": "学校",
+      "wc": "school",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r025",
+      "zh": "家",
+      "wc": "home",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "场所。",
+      "status": "draft"
+    },
+    {
+      "id": "r026",
+      "zh": "喝",
+      "wc": "drink",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "动作。",
+      "status": "draft"
+    },
+    {
+      "id": "r027",
+      "zh": "吃",
+      "wc": "eat",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "动作。",
+      "status": "draft"
+    },
+    {
+      "id": "r028",
+      "zh": "看见",
+      "wc": "see",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "视觉感知；与阅读 read 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r029",
+      "zh": "想要",
+      "wc": "want",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "意愿或需求；与思考 think 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r030",
+      "zh": "有；拥有",
+      "wc": "have",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "拥有关系。",
+      "status": "draft"
+    },
+    {
+      "id": "r031",
+      "zh": "爱",
+      "wc": "love",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "情感。",
+      "status": "draft"
+    },
+    {
+      "id": "r032",
+      "zh": "阅读",
+      "wc": "read",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批以阅读义、原英语非过去式读音为基础；与看见 see 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r033",
+      "zh": "写；书写",
+      "wc": "write",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "动作。",
+      "status": "draft"
+    },
+    {
+      "id": "r034",
+      "zh": "教",
+      "wc": "teach",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "教学动作；与身份 teacher 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r035",
+      "zh": "学；学习",
+      "wc": "learn",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r036",
+      "zh": "思考",
+      "wc": "think",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "思维动作；与想要 want 区分。",
+      "status": "draft"
+    },
+    {
+      "id": "r037",
+      "zh": "打开",
+      "wc": "open",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r038",
+      "zh": "去",
+      "wc": "go",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "移动。",
+      "status": "draft"
+    },
+    {
+      "id": "r039",
+      "zh": "来",
+      "wc": "come",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "移动。",
+      "status": "draft"
+    },
+    {
+      "id": "r040",
+      "zh": "洗",
+      "wc": "wash",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "动作。",
+      "status": "draft"
+    },
+    {
+      "id": "r041",
+      "zh": "睡觉",
+      "wc": "sleep",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r042",
+      "zh": "休息",
+      "wc": "rest",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r043",
+      "zh": "感到；觉得",
+      "wc": "feel",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批用于引出感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r044",
+      "zh": "不；没有",
+      "wc": "no",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批试用于否定；精确作用域待测试。",
+      "status": "draft"
+    },
+    {
+      "id": "r045",
+      "zh": "很",
+      "wc": "very",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "程度。",
+      "status": "draft"
+    },
+    {
+      "id": "r046",
+      "zh": "久",
+      "wc": "long",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批基础义取时间长；与 time 组合。",
+      "status": "draft"
+    },
+    {
+      "id": "r047",
+      "zh": "时间",
+      "wc": "time",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r048",
+      "zh": "在",
+      "wc": "at",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批试用于位置关系。",
+      "status": "draft"
+    },
+    {
+      "id": "r049",
+      "zh": "这里",
+      "wc": "here",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r050",
+      "zh": "那里",
+      "wc": "there",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "多字中文基础义作为整体，不拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r051",
+      "zh": "现在",
+      "wc": "now",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "时间词；本批放在主语之后、动作之前。",
+      "status": "draft"
+    },
+    {
+      "id": "r052",
+      "zh": "今天",
+      "wc": "today",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "时间词；本批放在主语之后、动作之前。",
+      "status": "draft"
+    },
+    {
+      "id": "r053",
+      "zh": "昨天",
+      "wc": "yesterday",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "时间词；本批放在主语之后、动作之前。",
+      "status": "draft"
+    },
+    {
+      "id": "r054",
+      "zh": "明天",
+      "wc": "tomorrow",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "时间词；本批放在主语之后、动作之前。",
+      "status": "draft"
+    },
+    {
+      "id": "r055",
+      "zh": "晚上",
+      "wc": "night",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "本批基础义暂取晚上；时间词。",
+      "status": "draft"
+    },
+    {
+      "id": "r056",
+      "zh": "开心",
+      "wc": "happy",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r057",
+      "zh": "累",
+      "wc": "tired",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受；基础词形含原英语词尾，不进一步拆分。",
+      "status": "draft"
+    },
+    {
+      "id": "r058",
+      "zh": "饿",
+      "wc": "hungry",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r059",
+      "zh": "渴；口渴",
+      "wc": "thirsty",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r060",
+      "zh": "冷",
+      "wc": "cold",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r061",
+      "zh": "热",
+      "wc": "hot",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "感受。",
+      "status": "draft"
+    },
+    {
+      "id": "r062",
+      "zh": "零",
+      "wc": "zero",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 0。",
+      "status": "draft"
+    },
+    {
+      "id": "r063",
+      "zh": "一",
+      "wc": "one",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 1。",
+      "status": "draft"
+    },
+    {
+      "id": "r064",
+      "zh": "二",
+      "wc": "two",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 2。",
+      "status": "draft"
+    },
+    {
+      "id": "r065",
+      "zh": "三",
+      "wc": "three",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 3。",
+      "status": "draft"
+    },
+    {
+      "id": "r066",
+      "zh": "四",
+      "wc": "four",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 4。",
+      "status": "draft"
+    },
+    {
+      "id": "r067",
+      "zh": "五",
+      "wc": "five",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 5。",
+      "status": "draft"
+    },
+    {
+      "id": "r068",
+      "zh": "六",
+      "wc": "six",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 6。",
+      "status": "draft"
+    },
+    {
+      "id": "r069",
+      "zh": "七",
+      "wc": "seven",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 7。",
+      "status": "draft"
+    },
+    {
+      "id": "r070",
+      "zh": "八",
+      "wc": "eight",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 8。",
+      "status": "draft"
+    },
+    {
+      "id": "r071",
+      "zh": "九",
+      "wc": "nine",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 9。",
+      "status": "draft"
+    },
+    {
+      "id": "r072",
+      "zh": "十",
+      "wc": "ten",
+      "unit": "whole",
+      "pronunciation_policy": "original English",
+      "reading_status": "original pronunciation retained; IPA not specified",
+      "notes": "数字 10；两位数按中文十位结构组合。",
+      "status": "draft"
+    }
+  ]
+}

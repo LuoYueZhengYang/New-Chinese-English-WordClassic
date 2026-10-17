@@ -1,0 +1,37 @@
+# Licensing / 许可范围
+
+Copyright (c) 2026 王正阳（笔名）及各自贡献者。
+
+本项目按文件用途分别许可，不是整仓库任择一种许可。以下安排仅涵盖相应权利人有权授予的权利；个别词语、事实、语言规则等是否受保护，依适用规则判断。已有文件中的独立第三方声明优先保留，详见 NOTICE.md。
+
+## 文本与数据 / Text and data — CC BY-SA 4.0
+
+项目原创或有权以此许可发布的以下内容，采用 Creative Commons Attribution-ShareAlike 4.0 International（CC BY-SA 4.0）：
+
+- 根目录说明性文本：README.md、CONTRIBUTING.md、CONTRIBUTORS.md、LICENSE-STATUS.md；本 LICENSE 中的项目许可范围说明及 NOTICE.md 中的项目原创说明。
+- docs/ 中的原创规范、宣言、说明与致谢文字。
+- data/ 中的项目词库、数字表、原创例句与原创数据整理部分。
+- samples/ 中明确标为项目原创的文字样例及其项目数据（第三方内容排除在外）。
+- .github/ISSUE_TEMPLATE/ 与 .github/pull_request_template.md 中的原创说明文字。
+
+完整许可：[LICENSES/CC-BY-SA-4.0.txt](LICENSES/CC-BY-SA-4.0.txt)。再分享时请保留适用的作者署名、项目与来源链接、许可说明，并标明修改；分享演绎材料时遵守相同方式共享条件。以上是导读，权利与条件以完整许可为准。
+
+## 代码 / Code — MIT
+
+src/、scripts/、test/ 中的项目源代码，.github/workflows/ 中的项目工作流，以及 package.json、可能新增的 package-lock.json、.gitattributes、.gitignore 等项目工具配置，采用 MIT License。
+
+项目生成的 public/、dist/ 页面中，项目代码部分沿用 MIT；嵌入的文本与数据沿用上节 CC BY-SA 4.0 或其单独注明的许可。生成或混合文件不改变各组成部分的许可。
+
+完整许可：[LICENSES/MIT.txt](LICENSES/MIT.txt)。
+
+## 排除与独立声明 / Exclusions
+
+- 第三方小说、译文、图片、标志、下载的资料、依赖及其衍生材料，不因存放在本项目中而自动获得上述许可；需逐项核实相应来源和条件。
+- 已撤下的《放开那个女巫》原文、试译及对照材料不属于本项目公开许可的范围。本地 translations/、.local/ 与未纳入发布的文件也不属于公开发布物。
+- 来源或许可尚未核明的 GUID 文件名 PNG 及其他图形素材暂不纳入项目发布；未来 docs/assets/ 素材需有逐项来源与许可记录。
+- LICENSES/ 内是对应许可的原文，各按其自身条款；DCO 是来源与贡献资格声明，按其原文的复制条件保存，不是内容许可、版权转让或 CLA。
+- 商标、姓名、肖像、隐私与第三方背书等权利不由本项目许可一并授予。引用、致谢和署名不代表背书。
+
+## English scope summary
+
+The project's licensable original documentation, language specifications, lexicon data and original examples are licensed under CC BY-SA 4.0. Project source code, tests, build scripts, workflows and tool configuration are licensed under MIT. This is a scope split, not a choice of either license for every file. Generated pages retain the respective licenses of their code and content. Third-party materials, withdrawn novel samples, local experiments and unverified artwork are excluded unless separately and explicitly licensed. Contributions remain subject to human review and the DCO process described in CONTRIBUTING.md. The full license texts control; this file is a scope notice, not legal advice.

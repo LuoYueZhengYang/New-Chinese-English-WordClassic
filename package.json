@@ -1,0 +1,16 @@
+{
+  "name": "new-chinese-english-wordclassic",
+  "version": "0.2.0-trial",
+  "private": true,
+  "description": "A Chinese-inspired, English-pronunciation language simplification experiment initiated by Wang Zhengyang (pen name).",
+  "type": "module",
+  "license": "MIT",
+  "author": "王正阳（笔名）",
+  "engines": { "node": ">=22" },
+  "scripts": {
+    "test": "node scripts/run-tests.mjs",
+    "check": "node scripts/validate.mjs && node scripts/validate-lexicon-v02.mjs && node scripts/check-publication.mjs",
+    "check:dco": "node scripts/check-dco.mjs",
+    "build": "node scripts/build.mjs"
+  }
+}
